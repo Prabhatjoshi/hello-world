@@ -16,7 +16,7 @@ function BookList() {
   );
   }
 
-//Not a good way of rendering because of readability and back to back function calls to React.createElement for children.
+//Not a good way of rendering because of readabilityand back to back function calls to React.createElement for children.
 // const Name = () => {
 //   return React.createElement('h1',{},'Hello World!')
 // }
